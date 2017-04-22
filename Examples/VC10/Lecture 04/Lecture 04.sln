@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Instanced_Attributes", "Instanced_Attributes.vcxproj", "{9A2DBBED-879B-4840-ACD6-1FBF06D6D31E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multi_Draw_Indirect", "Multi_Draw_Indirect.vcxproj", "{B067C660-9C0B-4B5E-9958-BE7B53B7D90E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grass", "Grass.vcxproj", "{4E6C64E1-1F4F-4783-BAA8-A95B4D36BB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A2DBBED-879B-4840-ACD6-1FBF06D6D31E}.Release|Win32.ActiveCfg = Release|Win32
+		{9A2DBBED-879B-4840-ACD6-1FBF06D6D31E}.Release|Win32.Build.0 = Release|Win32
+		{B067C660-9C0B-4B5E-9958-BE7B53B7D90E}.Release|Win32.ActiveCfg = Release|Win32
+		{B067C660-9C0B-4B5E-9958-BE7B53B7D90E}.Release|Win32.Build.0 = Release|Win32
+		{4E6C64E1-1F4F-4783-BAA8-A95B4D36BB2D}.Release|Win32.ActiveCfg = Release|Win32
+		{4E6C64E1-1F4F-4783-BAA8-A95B4D36BB2D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

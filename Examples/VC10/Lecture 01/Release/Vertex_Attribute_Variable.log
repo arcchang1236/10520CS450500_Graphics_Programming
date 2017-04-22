@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Simple_Tessellation.vcxproj, Single_Point.vcxproj, Single_Triangle_Sin_Colored.vcxproj, Single_Triangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Vertex_Attribute_Variable.cpp
+c:\users\f2289\desktop\繪圖程式設計與應用\examples\include\tinyobj\tiny_obj_loader.h(1092): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+c:\users\f2289\desktop\繪圖程式設計與應用\examples\include\tinyobj\tiny_obj_loader.h(1116): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+c:\users\f2289\desktop\繪圖程式設計與應用\examples\source\vertex_attribute_variable\../../Include/Common.h(123): warning C4018: '<': signed/unsigned 不相符
+c:\users\f2289\desktop\繪圖程式設計與應用\examples\source\vertex_attribute_variable\../../Include/Common.h(125): warning C4018: '<': signed/unsigned 不相符
+..\..\Source\Vertex_Attribute_Variable\Vertex_Attribute_Variable.cpp(85): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\direct.h(99): note: 請參閱 'chdir' 的宣告
+  正在產生程式碼
+  All 610 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  Vertex_Attribute_Variable.vcxproj -> C:\Users\f2289\Desktop\繪圖程式設計與應用\Examples\VC10\Lecture 01\Release\Vertex_Attribute_Variable.exe
+  Vertex_Attribute_Variable.vcxproj -> C:\Users\f2289\Desktop\繪圖程式設計與應用\Examples\VC10\Lecture 01\Release\Vertex_Attribute_Variable.pdb (Full PDB)

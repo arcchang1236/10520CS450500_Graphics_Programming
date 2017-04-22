@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiple_Viewport_Transformation", "Multiple_Viewport_Transformations.vcxproj", "{4E2A449E-9B55-48B3-AFED-7E555AC217B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Normal_Visualization", "Normal_Visualization.vcxproj", "{71324529-0CBF-4C42-81B4-12461508B3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2A449E-9B55-48B3-AFED-7E555AC217B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E2A449E-9B55-48B3-AFED-7E555AC217B6}.Debug|Win32.Build.0 = Debug|Win32
+		{4E2A449E-9B55-48B3-AFED-7E555AC217B6}.Release|Win32.ActiveCfg = Release|Win32
+		{4E2A449E-9B55-48B3-AFED-7E555AC217B6}.Release|Win32.Build.0 = Release|Win32
+		{71324529-0CBF-4C42-81B4-12461508B3CE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71324529-0CBF-4C42-81B4-12461508B3CE}.Debug|Win32.Build.0 = Debug|Win32
+		{71324529-0CBF-4C42-81B4-12461508B3CE}.Release|Win32.ActiveCfg = Release|Win32
+		{71324529-0CBF-4C42-81B4-12461508B3CE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

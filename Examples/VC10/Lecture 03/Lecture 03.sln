@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Many_Spinning_Cubes", "Many_Spinning_Cubes.vcxproj", "{75B2707C-0C60-4B71-AF0E-FBD8D4C141BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simple_Texture", "Simple_Texture.vcxproj", "{034153FA-98D7-4771-AC12-DAED92871222}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Single_Triangle_Buffer", "Single_Triangle_Buffer.vcxproj", "{E7FC076A-9750-428A-BB1C-2C39F2455C7B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spinning_Cube", "Spinning_Cube.vcxproj", "{1307325D-3CCF-4CFD-9480-B89A60943B61}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tunnel", "Tunnel.vcxproj", "{27517EBA-ED34-4ACB-AC22-6A896CC555F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wrapmode", "Wrapmode.vcxproj", "{A75F84E4-277B-40C0-A3FC-65255FF27376}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Alienrain", "Alienrain.vcxproj", "{4E6C64E1-1F4F-4783-BAA8-A95B4D36BB2D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simple_Texture_Coords", "Simple_Texture_Coords.vcxproj", "{5FFB53F6-7C49-4151-8C74-F9B2397FE382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B2707C-0C60-4B71-AF0E-FBD8D4C141BF}.Release|Win32.ActiveCfg = Release|Win32
+		{75B2707C-0C60-4B71-AF0E-FBD8D4C141BF}.Release|Win32.Build.0 = Release|Win32
+		{034153FA-98D7-4771-AC12-DAED92871222}.Release|Win32.ActiveCfg = Release|Win32
+		{034153FA-98D7-4771-AC12-DAED92871222}.Release|Win32.Build.0 = Release|Win32
+		{E7FC076A-9750-428A-BB1C-2C39F2455C7B}.Release|Win32.ActiveCfg = Release|Win32
+		{E7FC076A-9750-428A-BB1C-2C39F2455C7B}.Release|Win32.Build.0 = Release|Win32
+		{1307325D-3CCF-4CFD-9480-B89A60943B61}.Release|Win32.ActiveCfg = Release|Win32
+		{1307325D-3CCF-4CFD-9480-B89A60943B61}.Release|Win32.Build.0 = Release|Win32
+		{27517EBA-ED34-4ACB-AC22-6A896CC555F3}.Release|Win32.ActiveCfg = Release|Win32
+		{27517EBA-ED34-4ACB-AC22-6A896CC555F3}.Release|Win32.Build.0 = Release|Win32
+		{A75F84E4-277B-40C0-A3FC-65255FF27376}.Release|Win32.ActiveCfg = Release|Win32
+		{A75F84E4-277B-40C0-A3FC-65255FF27376}.Release|Win32.Build.0 = Release|Win32
+		{4E6C64E1-1F4F-4783-BAA8-A95B4D36BB2D}.Release|Win32.ActiveCfg = Release|Win32
+		{4E6C64E1-1F4F-4783-BAA8-A95B4D36BB2D}.Release|Win32.Build.0 = Release|Win32
+		{5FFB53F6-7C49-4151-8C74-F9B2397FE382}.Release|Win32.ActiveCfg = Release|Win32
+		{5FFB53F6-7C49-4151-8C74-F9B2397FE382}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

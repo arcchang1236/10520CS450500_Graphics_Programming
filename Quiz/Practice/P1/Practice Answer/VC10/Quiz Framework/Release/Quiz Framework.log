@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\f2289\desktop\繪圖程式設計與應用\practice\practice answer\include\tinyobj\tiny_obj_loader.h(1092): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+c:\users\f2289\desktop\繪圖程式設計與應用\practice\practice answer\include\tinyobj\tiny_obj_loader.h(1116): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+c:\users\f2289\desktop\繪圖程式設計與應用\practice\practice answer\source\../Include/Common.h(123): warning C4018: '<': signed/unsigned 不相符
+c:\users\f2289\desktop\繪圖程式設計與應用\practice\practice answer\source\../Include/Common.h(125): warning C4018: '<': signed/unsigned 不相符
+..\..\Source\main.cpp(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+..\..\Source\main.cpp(82): warning C4018: '<': signed/unsigned 不相符
+..\..\Source\main.cpp(200): warning C4244: '正在初始化': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  All 1908 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  Quiz Framework.vcxproj -> C:\Users\f2289\Desktop\繪圖程式設計與應用\Practice\Practice Answer\VC10\Quiz Framework\Release\Quiz Framework.exe
+  Quiz Framework.vcxproj -> C:\Users\f2289\Desktop\繪圖程式設計與應用\Practice\Practice Answer\VC10\Quiz Framework\Release\Quiz Framework.pdb (Full PDB)

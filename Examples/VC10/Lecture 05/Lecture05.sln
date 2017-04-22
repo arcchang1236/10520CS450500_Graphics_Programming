@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GrayScale_Cube", "GrayScale_Cube.vcxproj", "{1C613B4D-E508-47EC-8622-29EA7DB8FEE1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Image_Processing", "Image_Processing.vcxproj", "{4E6C64E1-1F4F-4783-BAA8-A95B4D36BB2D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Point_Sprite", "Point_Sprite.vcxproj", "{EED83331-696D-4F44-B322-84D5B3FE2E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C613B4D-E508-47EC-8622-29EA7DB8FEE1}.Release|Win32.ActiveCfg = Release|Win32
+		{1C613B4D-E508-47EC-8622-29EA7DB8FEE1}.Release|Win32.Build.0 = Release|Win32
+		{4E6C64E1-1F4F-4783-BAA8-A95B4D36BB2D}.Release|Win32.ActiveCfg = Release|Win32
+		{4E6C64E1-1F4F-4783-BAA8-A95B4D36BB2D}.Release|Win32.Build.0 = Release|Win32
+		{EED83331-696D-4F44-B322-84D5B3FE2E68}.Release|Win32.ActiveCfg = Release|Win32
+		{EED83331-696D-4F44-B322-84D5B3FE2E68}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

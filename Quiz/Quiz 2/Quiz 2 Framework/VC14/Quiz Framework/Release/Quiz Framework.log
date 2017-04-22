@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\jack\desktop\quiz 2 framework\include\tinyobj\tiny_obj_loader.h(1092): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+c:\users\jack\desktop\quiz 2 framework\include\tinyobj\tiny_obj_loader.h(1116): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 請參閱 'sscanf' 的宣告
+c:\users\jack\desktop\quiz 2 framework\source\../Include/Common.h(123): warning C4018: '<': signed/unsigned 不相符
+c:\users\jack\desktop\quiz 2 framework\source\../Include/Common.h(125): warning C4018: '<': signed/unsigned 不相符
+..\..\Source\main.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+..\..\Source\main.cpp(70): warning C4101: 'vao': 未參考的區域變數
+..\..\Source\main.cpp(70): warning C4101: 'buffer': 未參考的區域變數
+  正在產生程式碼
+  13 of 649 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  Quiz Framework.vcxproj -> C:\Users\Jack\Desktop\Quiz 2 Framework\VC14\Quiz Framework\Release\Quiz Framework.exe
+  Quiz Framework.vcxproj -> C:\Users\Jack\Desktop\Quiz 2 Framework\VC14\Quiz Framework\Release\Quiz Framework.pdb (Full PDB)

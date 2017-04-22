@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shadow_Mapping", "Shadow_Mapping.vcxproj", "{E7485632-F5C3-4FD0-8FE4-A1150CE40BA5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Julia_Fractal", "Julia_Fractal.vcxproj", "{301739D1-72D9-4DF0-9DFC-A3F351C12965}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Deferred_Shading", "Deferred_Shading.vcxproj", "{025A2FEE-0C9B-4842-AA34-6491F89D16E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSAO", "SSAO.vcxproj", "{C5381037-AFD3-4950-B849-B8EC2A0C3D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7485632-F5C3-4FD0-8FE4-A1150CE40BA5}.Release|Win32.ActiveCfg = Release|Win32
+		{E7485632-F5C3-4FD0-8FE4-A1150CE40BA5}.Release|Win32.Build.0 = Release|Win32
+		{301739D1-72D9-4DF0-9DFC-A3F351C12965}.Release|Win32.ActiveCfg = Release|Win32
+		{301739D1-72D9-4DF0-9DFC-A3F351C12965}.Release|Win32.Build.0 = Release|Win32
+		{025A2FEE-0C9B-4842-AA34-6491F89D16E6}.Release|Win32.ActiveCfg = Release|Win32
+		{025A2FEE-0C9B-4842-AA34-6491F89D16E6}.Release|Win32.Build.0 = Release|Win32
+		{C5381037-AFD3-4950-B849-B8EC2A0C3D7A}.Release|Win32.ActiveCfg = Release|Win32
+		{C5381037-AFD3-4950-B849-B8EC2A0C3D7A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
