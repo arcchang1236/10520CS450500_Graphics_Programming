@@ -166,14 +166,14 @@ void My_Display()
 
     glUseProgram(program);
 
-    mat4 proj_matrix = perspective(deg2rad(60.0f), 1.0f, 0.1f, 1000.0f);
-    mat4 mv_matrix = translate(mat4(), vec3(0.0f, 0.0f, -3.0f));
+	mat4 proj_matrix = perspective(deg2rad(60.0f), 1.0f, 0.1f, 1000.0f);
+	mat4 mv_matrix = translate(mat4(), vec3(0.0f, 0.0f, -3.0f));
 
     glUniformMatrix4fv(uniforms.mv_matrix, 1, GL_FALSE, &mv_matrix[0][0]);
     glUniformMatrix4fv(uniforms.proj_matrix, 1, GL_FALSE, &proj_matrix[0][0]);
 
     glDrawElements(GL_TRIANGLES, index_count, GL_UNSIGNED_INT, 0);
-
+	
 	glutSwapBuffers();
 }
 
