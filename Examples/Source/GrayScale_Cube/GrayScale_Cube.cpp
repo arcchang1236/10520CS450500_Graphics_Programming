@@ -94,9 +94,11 @@ static const char * fs_source2[] =
 	"                                                                               \n"
 	"void main(void)                                                                \n"
 	"{                                                                              \n"
-	"    vec4 texture_color = texture(tex,fs_in.texcoord);							\n"
-	"	 float grayscale_color = 0.2126*texture_color.r+0.7152*texture_color.g+0.0722*texture_color.b; \n"
-	"    color = vec4(grayscale_color,grayscale_color,grayscale_color,1.0);			\n"
+	"    vec2 left = vec2(fs_in.texcoord[0]-0.005, fs_in.texcoord[1]);						\n"
+	"    vec2 right = vec2(fs_in.texcoord[0]+0.005, fs_in.texcoord[1]);						\n"
+	"    vec4 left_color = texture(tex, left);\n"
+	"    vec4 right_color = texture(tex, right);\n"
+	"    color = vec4(left_color.r*0.299 + left_color.g*0.587 + left_color.b*0.114, right_color.g, right_color.b, 1.0);			\n"
 	"}                                                                              \n"
 };
 static const GLfloat vertex_positions[] =
